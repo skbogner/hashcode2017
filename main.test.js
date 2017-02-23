@@ -1,4 +1,4 @@
-import chai from 'chai'
+var chai = require('chai')
 const expect = chai.expect
 
 describe('yo', () => {
